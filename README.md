@@ -1,7 +1,10 @@
 # Stable-Diffusion_Car-classifier_20220919
 car-classifier based on synthetic car-images by Stable Diffusion
 
-There are two classes in it. 0.GTR, 1.Porsche. There are 100 images for each class. Therefore total 200 images for training. The images are synthetic car-images by Stable Diffusion. Then let us classify them into one of the classes automatically by deep learning. It is a classification problem "one out of two". As there is a little data which is available, we need transfer-learnig. In TensorFlow, EfficientNet is available for feature extraction. Based on the model, we achieve higher accracy which is 80% for test data of real images. Each class has 20 images for the test
+There are two classes in it. 0.GTR, 1.Porsche. There are 100 images for each class. Therefore total 200 images for training. The images are synthetic car-images by Stable Diffusion. Then let us classify them into one of the classes automatically by deep learning. It is a classification problem "one out of two". As there is a little data which is available, we need transfer-learnig. In TensorFlow, EfficientNet is available for feature extraction. Based on the model, we achieve higher accracy which is 80% for test data of real images. Each class has 20 images for the test. The images below are examples of synthetic car-images by Stable Diffusion
+
+![Screenshot 2022-09-19 14 01 48](https://user-images.githubusercontent.com/28681557/190952582-09560455-83d9-4ced-91cc-9eb9c55a5d7b.png)
+![Screenshot 2022-09-19 14 02 07](https://user-images.githubusercontent.com/28681557/190952591-26fc2214-b314-46ca-adde-1c184886be41.png)
 
 
-![Screenshot 2022-09-19 13 56 48](https://user-images.githubusercontent.com/28681557/190952191-1f44c92b-8864-47c4-907f-c0381e26168a.png)
+This code is solely for educational purpose. The code cannot be used for investments or busineeses in practice. Toshi Stats Co.,Ltd. and I do not accept any responsibility or liability for loss or damage occasioned to any person or property through using materials, instructions, methods, algorithm or ideas contained herein, or acting or refraining from acting as a result of such use. Toshi Stats Co.,Ltd. and I expressly disclaim all implied warranties, including merchantability or fitness for any particular purpose. There will be no duty on Toshi Stats Co.,Ltd. and me to correct any errors or defects in the codes and the software.
