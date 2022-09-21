@@ -6,6 +6,16 @@ There are four classes in it. 0.GTR, 1.Porsche, 2.Lexus, 3.Lamborghini. There ar
 ![Screenshot 2022-09-19 14 01 48](https://user-images.githubusercontent.com/28681557/190952582-09560455-83d9-4ced-91cc-9eb9c55a5d7b.png)
 ![Screenshot 2022-09-19 14 02 07](https://user-images.githubusercontent.com/28681557/190952591-26fc2214-b314-46ca-adde-1c184886be41.png)
 
+
+
+
+
+
+
+![Screenshot 2022-09-21 19 17 10](https://user-images.githubusercontent.com/28681557/191479864-09c6b04c-f766-4315-a3e2-a848221db2a6.png)
+
+
+
 "Stable Diffusion" is being released under a Creative ML OpenRAIL-M license by Stability AI
 https://huggingface.co/spaces/CompVis/stable-diffusion-license
 
