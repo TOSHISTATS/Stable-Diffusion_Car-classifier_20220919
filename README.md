@@ -3,10 +3,7 @@ car-classifier based on synthetic car-images by Stable Diffusion
 
 There are four classes in it. 0.GTR, 1.Porsche, 2.Lexus, 3.Lamborghini. There are 1000 images for each class. Therefore total 4000 images for training. The images are synthetic car-images by Stable Diffusion. Then let us classify them into one of the classes automatically by deep learning. It is a classification problem "one out of four". As there is a little data which is available, we need transfer-learnig. In TensorFlow, EfficientNet is available for feature extraction. Based on the model, we achieve higher accracy which is 90% for test data of real images. Each class has 100 images for the test. The images below are examples of synthetic car-images by Stable Diffusion
 
-![Screenshot 2022-09-19 14 01 48](https://user-images.githubusercontent.com/28681557/190952582-09560455-83d9-4ced-91cc-9eb9c55a5d7b.png)
-![Screenshot 2022-09-19 14 02 07](https://user-images.githubusercontent.com/28681557/190952591-26fc2214-b314-46ca-adde-1c184886be41.png)
-
-
+![Screenshot 2022-09-23 14 48 58](https://user-images.githubusercontent.com/28681557/191899191-2fe0f4b3-c2dc-47ab-91a6-0308241a4d2c.png)
 
 
 
